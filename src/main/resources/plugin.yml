@@ -1,0 +1,9 @@
+name: CrashOut
+version: '${version}'
+main: org.pissed.CrashOut
+api-version: '1.20'
+commands:
+  spawn:
+  description: retarded
+  usage: /<command>
+  permission: CrashOut.hardr
